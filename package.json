@@ -1,0 +1,30 @@
+{
+  "name": "hatem",
+  "version": "1.0.0",
+  "description": "Minimal CLI to access my links (npx hatem)",
+  "bin": {
+    "hatem": "./cli.js"
+  },
+  "author": {
+    "name": "Hatem Zehani",
+    "email": "contact@hatem.cc",
+    "url": "https://hatem.cc"
+  },
+  "license": "MIT",
+  "keywords": [
+    "cli",
+    "personal",
+    "links",
+    "hatem",
+    "terminal",
+    "npx"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ihatem/hatem-cli.git"
+  },
+  "homepage": "https://github.com/ihatem/hatem-cli",
+  "engines": {
+    "node": ">=14"
+  }
+}
